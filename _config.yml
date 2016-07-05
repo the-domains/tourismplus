@@ -6,9 +6,9 @@ color:
   saturation: 0.10745514766313136
   rhythmicContrast: 0.4884540841449052
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: TourismPlus
