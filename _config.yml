@@ -1,0 +1,14 @@
+layout_spectrum: 0.8230524242389947
+typography_spectrum: 0.5616864536423236
+color:
+  brandStrength: 0.24517654697410762
+  lightness: 0.4427725551649928
+  saturation: 0.10745514766313136
+  rhythmicContrast: 0.4884540841449052
+  brandColors:
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+name: TourismPlus
